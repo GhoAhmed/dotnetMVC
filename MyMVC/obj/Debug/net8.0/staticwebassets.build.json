@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uPLgQeSn37jh49c9TIp1gdXZMqPJPIZQBYurBGyqsyo=",
+  "Hash": "+IZNddxEOPqMrY4YqjcJmcQ2aKMIswGq7QDpBXEbqPc=",
   "Source": "MyMVC",
   "BasePath": "_content/MyMVC",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "D:\\projects\\dotnet\\MyMVC\\wwwroot\\css\\welcome.css",
+      "SourceId": "MyMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects\\dotnet\\MyMVC\\wwwroot\\",
+      "BasePath": "_content/MyMVC",
+      "RelativePath": "css/welcome.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\welcome.css"
+    },
+    {
       "Identity": "D:\\projects\\dotnet\\MyMVC\\wwwroot\\favicon.ico",
       "SourceId": "MyMVC",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\projects\\dotnet\\MyMVC\\wwwroot\\images\\agent.png",
+      "SourceId": "MyMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects\\dotnet\\MyMVC\\wwwroot\\",
+      "BasePath": "_content/MyMVC",
+      "RelativePath": "images/agent.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\agent.png"
     },
     {
       "Identity": "D:\\projects\\dotnet\\MyMVC\\wwwroot\\js\\site.js",
